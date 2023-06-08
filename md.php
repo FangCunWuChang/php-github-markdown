@@ -31,6 +31,7 @@ $request_array['mode'] = 'markdown';
 $html_article_body = curl_raw($render_url, json_encode($request_array));
 
 echo '<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">';
+echo '<title>' . $markdown_filename . '</title>';
 echo '<link rel="stylesheet" type="text/css" href="styles/base.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/checkboxes.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown.css">';
@@ -42,7 +43,7 @@ echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown-dark-t
 echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown-theme-base.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/highlight-js.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/katex.min.css">';
-echo '<title>' . $markdown_filename . '</title><link rel="stylesheet" href="/md_github.css" type="text/css" /></head>';
+echo '</head>';
 echo '<article class="markdown-body">';
 echo $html_article_body;
 echo '</article></body></html>';
