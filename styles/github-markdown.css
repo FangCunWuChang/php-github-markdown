@@ -1,7 +1,7 @@
 /* Generated from 'node_modules/github-markdown-css/github-markdown.css' */
 
 .markdown-light,
-.light .markdown-auto {
+.light {
   color-scheme: light;
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
@@ -47,7 +47,7 @@
 }
 
 .markdown-dark,
-.dark .markdown-auto {
+.dark {
   color-scheme: dark;
   --color-prettylights-syntax-comment: #8b949e;
   --color-prettylights-syntax-constant: #79c0ff;
