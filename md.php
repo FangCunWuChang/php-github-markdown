@@ -35,8 +35,6 @@ echo '<title>' . $markdown_filename . '</title>';
 echo '<link rel="stylesheet" type="text/css" href="styles/base.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/checkboxes.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown.css">';
-echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown-dark.css">';
-echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown-theme-base.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/highlight-js.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/katex.min.css">';
 echo '</head>';
