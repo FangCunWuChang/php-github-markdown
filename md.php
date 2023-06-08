@@ -40,6 +40,6 @@ echo '<link rel="stylesheet" type="text/css" href="styles/github-markdown-theme-
 echo '<link rel="stylesheet" type="text/css" href="styles/highlight-js.css">';
 echo '<link rel="stylesheet" type="text/css" href="styles/katex.min.css">';
 echo '</head>';
-echo '<article class="markdown-body entry-content container-lg dark" itemprop="text">';
+echo '<body class="dark"><article class="markdown-body entry-content container-lg" itemprop="text">';
 echo $html_article_body;
 echo '</article></body></html>';
