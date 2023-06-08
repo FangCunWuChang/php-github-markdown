@@ -30,7 +30,7 @@ $request_array['mode'] = 'markdown';
 
 $html_article_body = curl_raw($render_url, json_encode($request_array));
 
-echo '<!DOCTYPE html><html><head><meta charset="utf-8"><title>' . $markdown_filename . '</title><link rel="stylesheet" href="/md_github.css" type="text/css" /></head>';
+echo '<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>' . $markdown_filename . '</title><link rel="stylesheet" href="/md_github.css" type="text/css" /></head>';
 echo '<article class="markdown-body">';
 echo $html_article_body;
 echo '</article></body></html>';
