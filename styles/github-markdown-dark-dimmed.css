@@ -1,7 +1,7 @@
 [data-color-mode=light][data-light-theme=dark_dimmed],
 [data-color-mode=dark][data-dark-theme=dark_dimmed],
-.body.light [data-color-mode=auto][data-light-theme=dark_dimmed],
-.body.dark [data-color-mode=auto][data-dark-theme=dark_dimmed] {
+.light [data-color-mode=auto][data-light-theme=dark_dimmed],
+.dark [data-color-mode=auto][data-dark-theme=dark_dimmed] {
   /*dark_dimmed*/
   color-scheme: dark;
   --color-prettylights-syntax-comment: #768390;

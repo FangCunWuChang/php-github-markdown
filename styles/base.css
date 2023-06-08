@@ -25,10 +25,10 @@ body,
 }
 
 
-.body.scrollBeyondLastLine {
+.scrollBeyondLastLine {
     margin-bottom: 0;
 }
-.body.scrollBeyondLastLine .markdown-body {
+.scrollBeyondLastLine .markdown-body {
     padding-bottom: calc(100vh + 10px) !important;
 }
 
