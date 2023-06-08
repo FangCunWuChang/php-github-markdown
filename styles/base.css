@@ -25,10 +25,10 @@ body,
 }
 
 
-.vscode-body.scrollBeyondLastLine {
+.body.scrollBeyondLastLine {
     margin-bottom: 0;
 }
-.vscode-body.scrollBeyondLastLine .markdown-body {
+.body.scrollBeyondLastLine .markdown-body {
     padding-bottom: calc(100vh + 10px) !important;
 }
 
@@ -67,6 +67,6 @@ body,
   margin-bottom: 16px;
 }
 
-.vscode-dark.showEditorSelection .code-line:hover:before {
+.dark.showEditorSelection .code-line:hover:before {
     border-left: 3px solid var(--color-fg-default);
 }

@@ -1,7 +1,7 @@
 [data-color-mode=light][data-light-theme=dark_tritanopia],
 [data-color-mode=dark][data-dark-theme=dark_tritanopia],
-.vscode-body.vscode-light [data-color-mode=auto][data-light-theme=dark_tritanopia],
-.vscode-body.vscode-dark [data-color-mode=auto][data-dark-theme=dark_tritanopia] {
+.body.light [data-color-mode=auto][data-light-theme=dark_tritanopia],
+.body.dark [data-color-mode=auto][data-dark-theme=dark_tritanopia] {
   /*dark_tritanopia*/
   color-scheme: dark;
   --color-prettylights-syntax-comment: #8b949e;
