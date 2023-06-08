@@ -5,6 +5,8 @@ body,
     max-width: auto !important;
 }
 
+html,
+body,
 .markdown-body {
     background-color: var(--color-canvas-default);
     color: var(--color-fg-default);
