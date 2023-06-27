@@ -29,27 +29,27 @@
 
 ## 作为开发者
 <p align="center">
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
-   </a>
-  <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/lua.svg" alt="Lua" width="40" height="40"/>
-   </a>
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
-   </a>
-  <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/qt.svg" alt="qt" width="40" height="40"/>
-   </a>
-  <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="vs" width="40" height="40"/>
-   </a>
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
-   </a>
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
-   </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+    </a>
+	<a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/lua.svg" alt="Lua" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/qt.svg" alt="qt" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="vs" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
+    </a>
+    <a href="#">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
+    </a>
 </p>
 
 ### 代表作
