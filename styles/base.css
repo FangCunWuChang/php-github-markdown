@@ -11,7 +11,8 @@ body{
 }
 
 .content{
-    max-width: 800;
+    padding: 0px;
+    max-width: 800px;
     margin-top: 0px;
     margin-right: auto;
     margin-bottom: 0px;
