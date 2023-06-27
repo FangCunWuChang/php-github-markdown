@@ -107,3 +107,7 @@ Warsic音乐社团是一个以创作、交流、推广国产纯音乐为目的�
 - email: <3142324836@qq.com> <Warsic.WuChang@gmail.com>
 - Bilibili: <https://space.bilibili.com/161161623>
 - QQ: 3142324836
+
+---
+
+<image align="left" src ="https://komarev.com/ghpvc/?username=WuChang&style=for-the-badge&color=da69ac" width="160" height="36"/>
