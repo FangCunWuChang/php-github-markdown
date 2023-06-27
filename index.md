@@ -28,13 +28,13 @@
 ---
 
 ## 作为开发者
-![cpp](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg)
-![Lua](https://github.com/get-icon/geticon/blob/master/icons/lua.svg)
-![c](https://github.com/get-icon/geticon/blob/master/icons/c.svg)
-![qt](https://github.com/get-icon/geticon/blob/master/icons/qt.svg)
-![vs](https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg)
-![vsc](https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg)
-![clion](https://github.com/get-icon/geticon/blob/master/icons/clion.svg)
+<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/lua.svg" alt="Lua" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/qt.svg" alt="qt" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="vs" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
 
 ### 代表作
 [![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)
