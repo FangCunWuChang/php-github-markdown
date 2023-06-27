@@ -1,7 +1,11 @@
 html,
 body{
     padding: 0 !important;
-    max-width: 800;
+    max-width: auto !important;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
 }
 
 html,
@@ -9,3 +13,7 @@ body{
     background-color: var(--color-canvas-default);
     color: var(--color-fg-default);
 }
+
+.markdown-body {
+    max-width: 800;
+  }
