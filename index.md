@@ -28,13 +28,29 @@
 ---
 
 ## 作为开发者
-<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/lua.svg" alt="Lua" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/qt.svg" alt="qt" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="vs" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
-<img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
+<p align="center">
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+   </a>
+  <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/lua.svg" alt="Lua" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+   </a>
+  <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/qt.svg" alt="qt" width="40" height="40"/>
+   </a>
+  <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="vs" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
+   </a>
+</p>
 
 ### 代表作
 [![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)
