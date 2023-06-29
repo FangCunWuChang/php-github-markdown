@@ -117,7 +117,7 @@ sequenceDiagram
 6. 编写 Markdown 页面
    ![md](md.png "编写 Markdown")
 
-### 运行实例
+### 4.2 运行实例
 访问 <https://node0.daw.org.cn/> 可见渲染后的静态页面。
 ![page](page.png "网站首页")
 
